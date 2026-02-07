@@ -108,3 +108,19 @@
             </div>
         </div>
     </div>
+
+
+
+About Us    about-us
+Privacy policy  privacy-policy
+Shipping policy  shipping-policy
+Terms of condition  tos
+cart     cart-detail
+Contact us   contact-us
+Blogs blog
+Orders orders
+phone   tel:phone
+email mail to email 
+Return and refund policy   refund-policy
+
+
